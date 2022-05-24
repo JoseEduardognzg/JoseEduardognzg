@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 <!--
 **JoseEduardognzg/JoseEduardognzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
